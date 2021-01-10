@@ -1,6 +1,6 @@
 # Team Name: Tor_factory
 Members: 
-|![member1](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
+|![Photo](https://user-images.githubusercontent.com/65724356/104124183-a6269400-534f-11eb-9ecd-4e5fc055aac0.jpg) |![member2](assets/member2.webp?raw=true)  |
 |--|--|
 |  [Thierry NGANKOUE](https://github.com/Thierry94) <br> J'ai mener a bien l'intégralité de se projet moi même.|
 
