@@ -2,7 +2,7 @@
 Members: 
 |![member1](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Member 1](https://github.com/Thierry94) <br> zfzefrfzfzefezzfez...| [Member 2 ](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [Thierry NGANKOUE](https://github.com/Thierry94) <br> J'ai mener a bien l'intégralité de se projet moi même.|
 
 
 
