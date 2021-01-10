@@ -1,13 +1,14 @@
 # Team Name: Tor_factory
 Members: 
-|![Photo](https://user-images.githubusercontent.com/65724356/104124183-a6269400-534f-11eb-9ecd-4e5fc055aac0.jpg) |![member2](assets/member2.webp?raw=true)  |
+|![Photo](https://user-images.githubusercontent.com/65724356/104124183-a6269400-534f-11eb-9ecd-4e5fc055aac0.jpg) |
 |--|--|
 |  [Thierry NGANKOUE](https://github.com/Thierry94) <br> J'ai mener a bien l'intégralité de se projet moi même.|
 
 
 
-# Project Title: bla bla
- **Description**: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+# Project Title: Boite aux lettres connectée
+ **Description**: Développer une boîte aux lettres connectée capable d’envoyer une notification à chaque fois qu’un nouveau courrier est déposé dans la boîte aux lettres via un système de push notification comme PushOver ou Telegram et également envoyer un email sur une boîte aux lettres Gmail afin d'être ultérieurement traité sur le cloud google via google script.
+La notification et l’email doivent inclure une photo de l'intérieur de la boîte aux lettres.
  
 [Click here for more information about the project](project) 
 
