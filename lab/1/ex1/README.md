@@ -5,10 +5,8 @@ Test your LED by connecting the orange wire to the red bus (VCC). Is it work?
 
 ## Schematic 
 
-Yes is worck
 
-![Test Image](https://user-images.githubusercontent.com/65724356/104125702-b98a2d00-5358-11eb-968c-c0e878e499b9.jpg)
-
+![LED_micro](https://user-images.githubusercontent.com/65724356/104125916-0b7f8280-535a-11eb-8382-02367f8d9327.png)
 
 ## Code
 
@@ -29,9 +27,12 @@ void loop() {
 }
   
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+Yes is worck
+
+![Board](https://user-images.githubusercontent.com/65724356/104125702-b98a2d00-5358-11eb-968c-c0e878e499b9.jpg)
+
+
 ## Issues
 - bla bla
 - bla bla
