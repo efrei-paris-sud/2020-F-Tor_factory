@@ -1,9 +1,9 @@
 # Team Name: Tor_factory
 Members: 
 
-|![Photo](https://user-images.githubusercontent.com/65724356/104124183-a6269400-534f-11eb-9ecd-4e5fc055aac0.jpg) |
+![Photo](https://user-images.githubusercontent.com/65724356/104124183-a6269400-534f-11eb-9ecd-4e5fc055aac0.jpg) 
 
-|  [Thierry NGANKOUE](https://github.com/Thierry94) <br> J'ai mener a bien l'intégralité de se projet moi même.|
+ [Thierry NGANKOUE](https://github.com/Thierry94) <br> J'ai mener a bien l'intégralité de se projet moi même.
 
 
 
