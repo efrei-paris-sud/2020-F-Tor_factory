@@ -25,13 +25,24 @@ bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla bl
  [![Example Video of the porject](https://img.youtube.com/vi/ucZl6vQ_8Uo/0.jpg)](https://www.youtube.com/watch?v=ucZl6vQ_8Uo)
 
 # Components
-- 1 x Arduino Uno
-- 1 x BMP 280
+- 1 x ESP32 Cam Module
+- 1 x FTDI232RL
 - 1 x Breadboard
-- 
-- 
+- 1 x USB Breakout board
+- 1 x Infrared avoidance sensor
+- 1 x Resistance 1/4W 5.6k Ohm
+- 1 x Resistance 1/4W 3.3 k Ohm
+- 1 x 5 V DC USBPower Bank
+- 10 x Dupont Male male
+
+
 # Schematic
-![schema](doc/photo.png?raw=true)
+
+![schema](https://user-images.githubusercontent.com/65724356/104210608-61742900-5433-11eb-88aa-b114a1cb01d4.PNG)
+
+
+![schema1](https://user-images.githubusercontent.com/65724356/104210724-7bae0700-5433-11eb-9a77-1d01aa404399.PNG)
+
 
 # Overview on the code
 Please provide a high level algorithm of your code. if you need to mention some part of the code you can do it like:
