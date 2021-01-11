@@ -8,6 +8,12 @@
 Développer une boîte aux lettres connectée capable d’envoyer une notification à chaque fois qu’un nouveau courrier est déposé dans la boîte aux lettres via un système de push notification comme PushOver ou Telegram et également envoyer un email sur une boîte aux lettres Gmail afin d'être ultérieurement traité sur le cloud google via google script.
 La notification et l’email doivent inclure une photo de l'intérieur de la boîte aux lettres.
 
+*Alimentation:*
+
+Pour alimenter le système nous avons deux solutions:
+La premiere la plus simple est d’alimenter le système par une alimentation murale USB 5v. Avec cela le système pourra être allumé en permanence et ne nécessitera pas de recharge.
+La deuxième solution avec un power bank usb 5v elle nécessite une gestion de la batterie par le microcontrôleur afin de déclencher une notification quand la batterie atteint un niveau bas. 
+
  - [x] **reading from sensors** 
  - [x] **processing raw data**
  - [x] **Information Transmission**
