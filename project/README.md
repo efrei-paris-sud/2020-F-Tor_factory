@@ -1,9 +1,13 @@
 
-# Project Title:
-Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
-![Cover GIF](doc/Arduino_LED.gif?raw=true)
+# Project Title: Boite aux lettres connectée
 
-**Description:**  Please don't forget to describe all parts of your project including 
+![maxresdefault](https://user-images.githubusercontent.com/65724356/104201650-44872800-542a-11eb-8d5d-7a5d784a1a1c.jpg)
+
+**Description:**  
+
+Développer une boîte aux lettres connectée capable d’envoyer une notification à chaque fois qu’un nouveau courrier est déposé dans la boîte aux lettres via un système de push notification comme PushOver ou Telegram et également envoyer un email sur une boîte aux lettres Gmail afin d'être ultérieurement traité sur le cloud google via google script.
+La notification et l’email doivent inclure une photo de l'intérieur de la boîte aux lettres.
+
  - [x] **reading from sensors** 
  - [x] **processing raw data**
  - [x] **Information Transmission**
