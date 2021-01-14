@@ -27,7 +27,7 @@ La deuxième solution avec un power bank usb 5v elle nécessite une gestion de l
 
 # Working Video
 
- [![Video Projet BLC](https://youtu.be/3NNZsnjdIVs)](https://youtu.be/3NNZsnjdIVs)
+ [![Video Projet BLC](https://user-images.githubusercontent.com/65724356/104201650-44872800-542a-11eb-8d5d-7a5d784a1a1c.jpg)](https://youtu.be/3NNZsnjdIVs)
 
 # Components
 - 1 x ESP32 Cam Module
